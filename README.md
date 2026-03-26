@@ -31,10 +31,10 @@ Tabela: eventos
 
 ## 🎨 Wireframe
 O sistema possui as seguintes telas:
-- Tela inicial
-- Listagem de eventos
-- Cadastro
-- Edição
+![Tela Inicial](wireframe/01_tela_inicial.png)
+![Listagem](wireframe/02_listagem.png)
+![Cadastro](wireframe/03_cadastro.png)
+![Edição](wireframe/04_edicao.png)
 
 Fluxo:
 Usuário acessa → lista eventos → cadastra ou edita → salva
