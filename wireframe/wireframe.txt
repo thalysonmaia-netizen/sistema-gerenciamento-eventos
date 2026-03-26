@@ -1,4 +1,0 @@
-Tela Inicial
-Tela Listagem
-Tela Cadastro
-Tela Edição
