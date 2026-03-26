@@ -6,4 +6,5 @@ CREATE TABLE eventos (
     descricao TEXT
 );
 
+-- Índice para busca rápida por nome
 CREATE INDEX idx_nome_evento ON eventos(nome);
